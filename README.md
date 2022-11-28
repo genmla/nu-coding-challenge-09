@@ -1,5 +1,7 @@
 # README Maker
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 This project makes a README.md file based off of a README template and on responses given by the user. It is a class assignment that is meant to test our knowledge in using node to create prompts and write files based off of user input.
