@@ -87,9 +87,9 @@ const questions = () => {
 
 // TODO: Create a function to write README file
 const writeToFile = ({ title, Badge, Description, Installation, Usage, License, Contributing, Tests, username, link, email }) =>
-    `# ${title}
+`# ${title}
 
-    ${Badge}
+${Badge}
 
 ## Description
 
@@ -128,7 +128,7 @@ ${Tests}
 
 ## Questions
 
-Have a question for [${username}](${link})? Email them with additional quesitons at [${email}](${email}).
+Have a question for [${username}](${link})? Email them at [${email}](${email}).
 `;
 
 // TODO: Create a function to initialize app
